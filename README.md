@@ -27,9 +27,8 @@ It showcases how **deep learning** can be applied to **medical imaging** to supp
 - Potential extension to detect other thoracic diseases.
 
 ### Example Output
-*(Add an image of confusion matrix or accuracy/loss curve here if available)*
+<img width="548" height="823" alt="image" src="https://github.com/user-attachments/assets/0a51757b-e199-43b8-889a-c37821d98d14" />
 
----
 
 ## 📥 Installation
 Clone the repository and install the required libraries:
